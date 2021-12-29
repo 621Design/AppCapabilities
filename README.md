@@ -1,0 +1,2 @@
+# AppCapabilities
+app capabilities
